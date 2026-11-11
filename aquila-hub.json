@@ -1,0 +1,25 @@
+{
+  "name": "Aquila Hub",
+  "identifier": "com.aquila.hub.0c73425e",
+  "subtitle": "Seamlessly packaged for your needs, Aquila.",
+  "description": "Your curated source for clean, reliable, and up-to-date iOS IPA packages.",
+  "iconURL": "https://raw.githubusercontent.com/viapci/aquila-hub-repo/main/aquilalogo.png",
+  "headerURL": "https://raw.github.com/viapci/aquila-hub-repo/main/aquilaheader.png",
+  "website": "htps://aquilahub.xyz",
+  "tintColor": "#32008e",
+  "apps": [
+    {
+      "name": "Tauras",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "natasha, samj and arnaupq",
+      "subtitle": "Spotify, re-designed.",
+      "localizedDescription": "An Open-Sourced, Human-Made, Awesome Tweak for Spotify that grants Free Premium with Apple Music UI.",
+      "iconURL": "https://raw.githubusercontent.com/viapci/aquila-hub-repo/main/taurus-icon.png",
+      "tintColor": "#161615",
+      "version": "0.60.6",
+      "versionDate": "2026-08-11",
+      "downloadURL": "https://files.catbox.moe/9tmvx3.ipa",
+      "size": 131
+    }
+  ]
+}
